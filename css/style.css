@@ -1,7 +1,7 @@
-*{
+/* *{
     margin: 0;
     padding: 0;
-}
+} */
 div{
     background-color: aqua;
     margin: 10px;
@@ -12,4 +12,11 @@ div{
 h3{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: bolder;
+}
+img{
+    height: 180px;
+    width: 180px;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 10px;
 }
